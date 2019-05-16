@@ -1,3 +1,3 @@
 # Website Watcher - AWS Lambda
 
-Monitor websites availability with AWS Lambda, CloudWatch and SNS
+Monitor website availability with AWS Lambda, CloudWatch and SNS
