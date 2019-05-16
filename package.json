@@ -1,0 +1,14 @@
+{
+  "name": "website-uptime-test",
+  "version": "1.0.0",
+  "description": "A simple AWS lambda function to check if a website is up",
+  "main": "dist/index.js",
+  "author": "Griftynoxx",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "aws-sdk": "^2.456.0",
+    "node-fetch": "^2.5.0"
+  }
+}
